@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Monalisa Mondal  
+### 🌸 Aspiring Data Scientist | Singer | Influencer in Progress
 
-<!--
-**Monalisamondal823/Monalisamondal823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing *BSc in Data Science* and building my future in tech and creativity.  
+Passionate about:
+- 💻 Python, Machine Learning
+- 🎤 Singing and performing
+- 📸 Instagram content creation
 
-Here are some ideas to get you started:
+### 🧠 Skills I'm Learning
+- Python, Pandas, Matplotlib
+- HTML, CSS, JavaScript
+- Git & GitHub Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My Goal
+To become a successful woman in tech and grow as a digital creator ✨  
+Looking for internships, collaborations, and learning opportunities!
+
+### 🌐 Connect with me
+- [Instagram](https://www.instagram.com/bongie_official_)  
+- [LinkedIn](https://www.linkedin.com/in/monalisa-mondal-2ba412322)
+
+---
