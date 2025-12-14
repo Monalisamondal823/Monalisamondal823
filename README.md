@@ -1,20 +1,20 @@
-# Hi, I’m Monalisa Mondal 👋
+# Hi, I’m Monalisa Mondal 
 
-🎓 BSc Data Science Student  
-📍 Kolkata, India  
-💡 Aspiring Data Scientist | AI Enthusiast  
-🎤 Singer | Content Creator  
+- BSc Data Science Student  
+- Kolkata, India  
+- Aspiring Data Scientist | AI Enthusiast  
+- Singer | Content Creator  
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 I am a passionate and driven technology enthusiast with hands-on experience in real-world projects.
 I have a strong foundation in Python, C, data structures, and machine learning.
 I enjoy solving problems, learning new technologies, and combining analytical thinking with creativity.
 
 ---
 
-## 💼 Experience
+##  Experience
 ### Artificial Intelligence Intern
 *Infosys Springboard (2025)*
 - Domain: Artificial Intelligence
@@ -23,7 +23,7 @@ I enjoy solving problems, learning new technologies, and combining analytical th
 
 ---
 
-## 🚀 Projects
+##  Projects
 - *LitterLuna*
   - Smart dustbin using AI/ML, Python, and Arduino
   - Automated waste disposal using intelligent detection
@@ -38,7 +38,7 @@ I enjoy solving problems, learning new technologies, and combining analytical th
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 - Python Programming  
 - C Programming  
 - Data Structures & Algorithms  
@@ -48,7 +48,7 @@ I enjoy solving problems, learning new technologies, and combining analytical th
 
 ---
 
-## 🤝 Soft Skills
+##  Soft Skills
 - Creativity & Innovation  
 - Team Collaboration  
 - Leadership & Initiative  
@@ -57,7 +57,7 @@ I enjoy solving problems, learning new technologies, and combining analytical th
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced Machine Learning
 - Git & GitHub
 - Data Visualization
@@ -65,7 +65,7 @@ I enjoy solving problems, learning new technologies, and combining analytical th
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - Email: monalisamondal823@gmail.com  
 - Instagram: https://www.instagram.com/bongie_official_
 - LinkedIn: https://www.linkedin.com/in/monalisa-mondal-2ba412322
